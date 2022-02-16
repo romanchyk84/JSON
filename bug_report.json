@@ -1,6 +1,6 @@
 {
   "main" : {
-  "bug-report-id" : 01,
+  "bug-report-id" : "unique number",
   "bug-report-name" : "bugrep #1",
   "priority" : "medium",
   "reporter" : "petrov",
