@@ -1,0 +1,10 @@
+{
+	"cli" : "linux terminal, git bash",
+	"git" : "git basics, github",
+	"postman" : "api testing",
+	"data bases" : "creation data base queries",
+	"python" : "basics of programming language",
+	"jmeter" : "load test functional behavior",
+	"test rail" : "create and update testcases",
+	"jira" : "bug tracking system"
+}
