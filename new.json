@@ -1,2 +1,11 @@
-New file has been created.
-[B23-18, 16.02.2022
+{
+	"name": "Roman",
+	"surname": "Motorin",
+	"city": "Kyiv",
+	"phone": [ 38-050-714-35**],
+	"age": 37,
+	"children": "yes",
+	"pets": "no",
+	"sallary": "1000 USD"
+
+}
