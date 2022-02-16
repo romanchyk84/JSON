@@ -1,11 +1,15 @@
 {
-	"name": "Roman",
-	"surname": "Motorin",
-	"city": "Kyiv",
-	"phone": [ 38-050-714-35**],
-	"age": 37,
-	"children": "yes",
-	"pets": "no",
-	"sallary": "1000 USD"
+	"person": {
+		"name" : "Roman",
+		"surname" : "Motorin",
+		"age" : 37
+		},
+	"location" : {
+		"country" : "Ukraine",
+		"city" : "Kyiv"
+		},
+	"children" : "yes",
+	"pets" : "no",
+	"sallary" : "1000 usd"
 
 }
