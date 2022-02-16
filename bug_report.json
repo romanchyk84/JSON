@@ -1,1 +1,19 @@
-
+{
+  "main" : {
+  "bug-report-id" : 01,
+  "bug-report-name" : "bugrep #1",
+  "priority" : "medium",
+  "reporter" : "petrov",
+  "assignee" : "ivanov"
+    },
+  "summary" : "precondition" : "go to https://www.google.com and sign in",
+  "str" : {
+    "step1" : "bla-bla",
+    "step2" : "flsjfls",
+    "step3" : "some action"
+    },
+  "result: {
+    "er" : 1,
+    "ar" : 9
+    }
+}
