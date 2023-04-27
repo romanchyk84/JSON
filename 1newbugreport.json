@@ -1,1 +1,17 @@
-
+"bugreport" : {
+    "bug_id" : "unique_id_number",
+    "summary_bug_name" : "some_name",
+    "priority" : "medium",
+    "assignee" : "somebody",
+},
+{
+"description" : "issue description"
+},
+"Steps to reproduce" : {
+      "first step" : "some action",
+      "second step" : "some action",
+},
+"results" : {
+  "Expected Result" : "result",
+  "Actual Result" : "Bug"
+}
